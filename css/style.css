@@ -18,8 +18,12 @@
     margin-top:-20%;
 }
 .fonttxten {
-    font-family: 'ubuntu', sans-serif;
+    font-family: sans-serif;
     font-weight: bold;
+}
+.logomargin {
+    margin-top: 28%;
+    margin-bottom: 15%;
 }
 .videomargin {
     margin-top: 28%;
